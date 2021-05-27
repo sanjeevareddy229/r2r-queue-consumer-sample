@@ -1,0 +1,13 @@
+# Java files
+/target/
+bin/
+
+# IDE files and folders
+.idea/
+.classpath
+.project
+R2RTEST.iml
+.settings/
+
+# Generated files
+*.txt
